@@ -1,0 +1,6 @@
+Description,Model,Mean Absolute Error (MAE),Root Mean Squared Error (RMSE)
+After 1st feature engineering,ARIMA,3411.567508645915,4650.875831662401
+After 1st feature engineering,STL Exponential Smoothing,2583.371650842588,3396.542759865126
+After 1st feature engineering,Prophet,3579.537818023387,4816.194389259405
+After 1st feature engineering,Linear Regression,5824.962068173815,6622.308246367613
+After 1st feature engineering,Historical Data Method,2720.501904761904,3411.459879624222
